@@ -79,8 +79,8 @@ input, select, textarea {
 }
 
 .languageDesc {
-	font-weight:600;
-	color:black;
+	font-weight:800;
+	color:rgb(255, 255, 255);
 }
 
 /* Basic */
@@ -283,6 +283,8 @@ input, select, textarea {
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
 			padding-bottom: 1em;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
+			color: black;
+			font-weight: 550;
 		}
 
 	h2 {
