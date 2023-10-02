@@ -1,3 +1,3 @@
 function openResume() {
-  window.open("/images/Konny_Guo_Resume.pdf");
+  window.open("/images/Konny_Guo_Resume.pdf", "_blank");
 }
